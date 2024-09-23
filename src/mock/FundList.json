@@ -1,0 +1,44 @@
+[
+  {
+    "bound": "BND",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "20%",
+    "disabled": true
+  },
+  {
+    "bound": "BNDX",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "20%",
+    "disabled": true
+  },
+  {
+    "bound": "VTI",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "32%"
+  },
+  {
+    "bound": "VXUS",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "21%"
+  },
+  {
+    "bound": "VB",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "2%"
+  },
+  {
+    "bound": "VTV",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "2%"
+  },
+  {
+    "bound": "VSS",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "2%"
+  },
+  {
+    "bound": "VWO",
+    "name": "Vanguard Total World Stock Index Fund ETF",
+    "allocation": "1%"
+  }
+]
