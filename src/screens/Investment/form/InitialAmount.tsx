@@ -66,7 +66,7 @@ export const InitialAmount: React.FC = () => {
             keyboardType="numeric"
           />
           <View style={styles.viewSchedule}>
-            <Text style={styles.textSchedule}>Schedule a monthly deposit</Text>
+            <Text style={styles.textSchedule}>Schedule a monthly deposit </Text>
             <ToggleSwitch
               isOn={isSchedule}
               onColor="#625EEE"
